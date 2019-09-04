@@ -1,5 +1,5 @@
 ﻿using System.Data.SqlClient;
-using Birchy.GatewayCodeGen.Contracts;
+using Birchy.GatewayCodeGen.Core.Contracts;
 
 namespace IntegrationTests
 {

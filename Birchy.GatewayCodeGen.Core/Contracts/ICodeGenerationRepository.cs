@@ -1,6 +1,4 @@
-﻿using Birchy.GatewayCodeGen.Core;
-
-namespace Birchy.GatewayCodeGen.Contracts
+﻿namespace Birchy.GatewayCodeGen.Core.Contracts
 {
     public interface ICodeGenerationRepository
     {

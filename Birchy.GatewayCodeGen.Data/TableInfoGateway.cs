@@ -1,4 +1,4 @@
-﻿using Birchy.GatewayCodeGen.Contracts;
+﻿using Birchy.GatewayCodeGen.Core.Contracts;
 using Birchy.GatewayCodeGen.Core.Database;
 
 namespace Birchy.GatewayCodeGen.Data

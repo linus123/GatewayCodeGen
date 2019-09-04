@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Birchy.GatewayCodeGen.Contracts;
 using Birchy.GatewayCodeGen.Core;
+using Birchy.GatewayCodeGen.Core.Contracts;
 
 namespace Birchy.GatewayCodeGen.Repository
 {

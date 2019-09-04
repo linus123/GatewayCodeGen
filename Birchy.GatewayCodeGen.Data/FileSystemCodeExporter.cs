@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using Birchy.GatewayCodeGen.Contracts;
 using Birchy.GatewayCodeGen.Core;
+using Birchy.GatewayCodeGen.Core.Contracts;
 
 namespace Birchy.GatewayCodeGen.Data
 {

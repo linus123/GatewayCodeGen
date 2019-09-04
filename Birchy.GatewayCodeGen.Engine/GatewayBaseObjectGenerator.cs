@@ -1,5 +1,5 @@
-﻿using Birchy.GatewayCodeGen.Contracts;
-using Birchy.GatewayCodeGen.Core;
+﻿using Birchy.GatewayCodeGen.Core;
+using Birchy.GatewayCodeGen.Core.Contracts;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;

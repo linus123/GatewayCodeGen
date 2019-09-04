@@ -1,7 +1,6 @@
-﻿using Birchy.GatewayCodeGen.Core;
-using Birchy.GatewayCodeGen.Core.Database;
+﻿using Birchy.GatewayCodeGen.Core.Database;
 
-namespace Birchy.GatewayCodeGen.Contracts
+namespace Birchy.GatewayCodeGen.Core.Contracts
 {
     public interface IDataTransferObjectGenerator
     {

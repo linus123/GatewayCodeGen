@@ -1,6 +1,6 @@
 ﻿using System.Linq;
-using Birchy.GatewayCodeGen.Contracts;
 using Birchy.GatewayCodeGen.Core;
+using Birchy.GatewayCodeGen.Core.Contracts;
 using Birchy.GatewayCodeGen.Core.Database;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
