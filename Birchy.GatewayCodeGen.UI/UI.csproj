@@ -158,10 +158,6 @@
       <Project>{A20FE8F2-C1AD-493B-80C4-6512FE94C28D}</Project>
       <Name>Composition</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Birchy.GatewayCodeGen.Contracts\Contracts.csproj">
-      <Project>{bd3733d5-28e0-4411-a251-aa50e3118cc1}</Project>
-      <Name>Contracts</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Birchy.GatewayCodeGen.Core\Core.csproj">
       <Project>{5BC3E312-44AF-4700-9041-BD000CE9FF5F}</Project>
       <Name>Core</Name>

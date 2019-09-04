@@ -41,6 +41,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodeGenerationConfiguration.cs" />
+    <Compile Include="Contracts\ICodeGenerationRepository.cs" />
+    <Compile Include="Contracts\IColumnInfoGateway.cs" />
+    <Compile Include="Contracts\IDatabaseSettings.cs" />
+    <Compile Include="Contracts\IDatabaseTableInfoRepository.cs" />
+    <Compile Include="Contracts\IDataTransferObjectGenerator.cs" />
+    <Compile Include="Contracts\IFileSystemCodeExporer.cs" />
+    <Compile Include="Contracts\IGatewayBaseObjectGenerator.cs" />
+    <Compile Include="Contracts\IGatewayGenerator.cs" />
+    <Compile Include="Contracts\ISqlGenerator.cs" />
+    <Compile Include="Contracts\ITableInfoGateway.cs" />
     <Compile Include="Database\ColumnDto.cs" />
     <Compile Include="Database\DatabaseColumnDefinition.cs" />
     <Compile Include="Database\DatabaseTableDefinition.cs" />
